@@ -3,13 +3,16 @@
  * Plugin Name: LH Zero Spam
  * Plugin URI: http://lhero.org/plugins/lh-zero-spam/
  * Description: This is a very lightweight anti spam plugin utilising JavaScript nonce security to prevent comment and registration spam.
- * Version: 1.0
+ * Version: 1.01
  * Author: Peter Shaw
  * Author URI: http://shawfactor.com
  == Changelog ==
 
 = 1.0 =
 * Initial release
+
+= 1.01 =
+* Code improvement
 
 License:
 Released under the GPL license

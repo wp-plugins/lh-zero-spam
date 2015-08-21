@@ -1,14 +1,14 @@
-=== LH Zero Spam ===
+=== LH Posse ===
 Contributors: shawfactor
 Donate link: http://lhero.org/plugins/lh-zero-spam/
 Tags: comments, spam, antispam, anti-spam, comment spam, spambot, spammer, spam free, spam blocker, registration spam
 Requires at least: 3.0
-Tested up to: 4.2
+Tested up to: 4.3
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-LH Zero Spam makes blocking spam comments and registrations easy.
+Zero Spam makes blocking spam comments and registrations easy.
 
 == Description ==
 
@@ -43,5 +43,8 @@ Be sure JavaScript is enabled and there are no JS errors.
 
 = 1.0 =
 * Initial release
+
+= 1.0 =
+* Code Improvement
 
 
