@@ -1,4 +1,4 @@
-=== LH Posse ===
+=== LH Zero Spam ===
 Contributors: shawfactor
 Donate link: http://lhero.org/plugins/lh-zero-spam/
 Tags: comments, spam, antispam, anti-spam, comment spam, spambot, spammer, spam free, spam blocker, registration spam
